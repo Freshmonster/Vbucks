@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+input("Enter your age: ")
+input("Do you want free V-bucks?: ")
+input("Enter You'r mom's credit card information: ")
+print("Congradulations " + name + ", You'r V-bucks are generated to you'r account!")
